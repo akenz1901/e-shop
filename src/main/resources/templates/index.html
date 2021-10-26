@@ -197,7 +197,7 @@
 						</div>
 						<div class="desc">
 							<h3><a href="single.html" th:text="${product.getName()}"></a></h3>
-							<p id="yr" ></p><span class="price" th:utext="${product.getCurrency()}" th:text="${product.getPrice()}"></span>
+							<p id="yr" th:utext="${product.getCurrency()}"></p><span class="price" th:text="${product.getPrice()}"></span>
 						</div>
 					</div>
 				</div>
