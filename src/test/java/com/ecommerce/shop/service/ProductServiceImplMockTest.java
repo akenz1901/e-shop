@@ -16,7 +16,7 @@ import static org.mockito.Mockito.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 @Slf4j
-class ProductServiceImplTest {
+class ProductServiceImplMockTest {
 
     @Mock
     ProductRepository productRepository;
