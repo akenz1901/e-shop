@@ -1,4 +1,4 @@
-#e-shop commerce project
+#e-shop ecommerce project
 E-shop is an ecommerce project built with the following: Spring Framework, java, mySQL and maven build tool
 
 #Features
@@ -7,6 +7,7 @@ RestAPI that  includes the following:
 - Find product by id
 - Find all products
 - Delete Product
+- Update product
 
 Spring MVC with thymeleaf template engine for viewing product details
 
