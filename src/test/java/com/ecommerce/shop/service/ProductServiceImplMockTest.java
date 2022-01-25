@@ -4,7 +4,6 @@ import com.ecommerce.shop.data.model.Currency;
 import com.ecommerce.shop.data.model.Product;
 import com.ecommerce.shop.data.repository.ProductRepository;
 import lombok.extern.slf4j.Slf4j;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
@@ -14,7 +13,6 @@ import org.mockito.MockitoAnnotations;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.mockito.Mockito.*;
 
-import static org.junit.jupiter.api.Assertions.*;
 @Slf4j
 class ProductServiceImplMockTest {
 
