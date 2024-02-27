@@ -1,7 +1,7 @@
 # E-shop e-commerce project
 E-shop is an e-commerce project built with the following: Spring Framework, Java, MySQL, and Maven build tool
 
-#Features
+## Features
 RestAPI includes the following: 
 - Add product to the database
 - Find product by id
@@ -11,7 +11,7 @@ RestAPI includes the following:
 
 Spring MVC with thymeleaf template engine for viewing product details
 
-#Installation
+## Installation
 - STEP 1: Clone repository
 - STEP 2: Install dependencies: `cd` into the root folder and run the following command `mvn install`
 - STEP 3: Setup database: change the directory into the db folder 
